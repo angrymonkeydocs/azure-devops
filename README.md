@@ -6,17 +6,54 @@
 * Version Control -> Git
 * Visibility -> Private
 
-## Set
+## Settings
 
-* New => Backlog
-* Close => Production
+* Working with bugs -> Bugs are managed with requirements
 
-## Navigate to boards -> Boards
+## Columns
 
-* Set first column to: Backlog
-* Set second column to: To Do (preferred limit: 20) / Bug => Active & User Story => Active
-* Set third column to: In Progress (preferred limit: 5) / Bug => Active & User Stroy => Active
-* Set fourth column to: Done (limit: 0) / Bug => Active & User Story => Active
-* Set fifth column to: Staging (limit: 0) / Bug => Active & User Story => Active
-* Set sixth column to: Ready (limit: 0) / Bug => Resolved & User Story => Resolved
-* Set last column to: Production
+* First column: **Backlog**
+
+<br/>
+
+* Second column: **To Do**
+
+    Preferred limit: 20
+
+    State Mapping: Active
+
+<br/>
+
+* Third column: **In Progress** 
+
+    Preferred limit: 5
+    
+    State Mapping: Active
+
+<br/>
+
+* Set fourth column to: **Done** 
+
+    Limit: 0
+
+    State Mapping: Active
+
+<br/>
+
+* Set fifth column to: **Staging** 
+    
+    Limit: 0
+    
+    State Mapping: Active
+     
+<br/>
+
+* Set sixth column to: **Ready** 
+
+    Limit: 0
+    
+    State Mapping: Resolved
+    
+<br/>
+
+* Last column: **Production**
